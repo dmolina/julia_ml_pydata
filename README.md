@@ -1,5 +1,9 @@
 # Discover the Julia Machine Learning  Ecosystem
 
+## Conference
+
+This talk was presented in the PyDataGlobal in 2024: https://pydata.org/global2024/
+
 ## Abstract
 
  Julia is a high-performance language for technical computing that offers advantages like type stability, just-in-time compilation, and extensive parallel computing support. Its Machine Learning ecosystem, although having fewer options, is functional and includes packages like DataFrames.jl, Flux.jl, MLJ.jl, and SciML for various ML tasks. Additional tools cover data visualization, R compatibility, and specific ML applications. The ecosystem is comprehensive and can meet many ML researcher/professional needs. This talk provides an overview of the ecosystem, discussing both its strengths and potential areas for improvement.
