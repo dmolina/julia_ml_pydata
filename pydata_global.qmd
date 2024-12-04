@@ -8,6 +8,7 @@ date-format: long
 toc: true
 toc-title: Contents
 toc-depth: 1
+slide-number: true
 execute:
   echo: true
   cache: true
@@ -34,14 +35,19 @@ format:
     slide-number: true
 ---
 
+## Source of the material
+
+![](images/qr-code.png){fig-align="center" width="100%"}
+
 ## Disclaimer: It contains personal opinions {.center}
 
 ## About me {.smaller}
 
 ::: {.columns}
+![](images/logos.png){fig-align="top" width="100%"}
 
 :::: {.column width="40%"}
-![](images/yo_serio.png)
+![](images/yo_serio.png){width="80%"}
 ::::
 
 :::: {.column width="60%"}
